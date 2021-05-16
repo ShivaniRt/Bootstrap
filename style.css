@@ -1,0 +1,43 @@
+h5
+{
+	margin-top:5px;
+	text-align:left;
+	padding-bottom:180px;
+	padding-left:50px;
+	color:white;
+	font-size:35px;
+	
+}
+
+p
+{
+	
+}
+
+.card:hover
+{
+	box-shadow:0 8px 50px rgba(0,0,0,0.2);
+	transform:scale(1.14);
+	
+	
+}
+.btn
+{
+	margin-left:50px;
+}
+
+h3{
+	text-align:center;
+	padding-left:450px;
+	
+}
+
+.container-fluid
+{
+	background-color:#b1c12d8a;/*#0dcaf026;;*/
+}
+
+.accordion-button:not(.collapsed) 
+{
+	background-color:#d1da8a38;
+}
